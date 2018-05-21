@@ -1,9 +1,4 @@
+const Game = function () {
+}
 
-
-module.exports = {
-    Something: function () {
-        this.foo = function() {
-            return "foo"
-        }
-    }
-};
+module.exports = {Game}
